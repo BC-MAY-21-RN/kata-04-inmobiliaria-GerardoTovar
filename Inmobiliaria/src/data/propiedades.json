@@ -1,0 +1,149 @@
+[
+    {
+      "uid": 1,
+      "name": "The Willows",
+      "like": ["123456", "456321"],
+      "startsScore": 5,
+      "starts":[{"user":"123456", "score": 5},{"user":"123458", "score": 4}],
+      "location": {
+          "lat":22.592239,
+          "lng":-101.998006,
+          "address": "3517 W.Gray St.Utica"
+        },
+      "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+      "space": {
+          "rooms": 3,
+          "bathroom": 2
+        },
+      "surface": 230,
+      "cost": 440,
+      "currency": "USD",
+      "unitMeasurement": "USD"
+    },
+    {
+      "uid": 1,
+      "name": "The Willows",
+      "like": ["123456", "456321"],
+      "startsScore": 5,
+      "starts":[{"user":"123456", "score": 5},{"user":"123458", "score": 4}],
+      "location": {
+          "lat":22.592239,
+          "lng":-101.998006,
+          "address": "3517 W.Gray St.Utica"
+        },
+      "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+      "space": {
+          "rooms": 3,
+          "bathroom": 2
+        },
+      "surface": 230,
+      "cost": 440,
+      "currency": "USD",
+      "unitMeasurement": "USD"
+    },
+    {
+      "uid": 1,
+      "name": "The Willows",
+      "like": ["123456", "456321"],
+      "startsScore": 5,
+      "starts":[{"user":"123456", "score": 5},{"user":"123458", "score": 4}],
+      "location": {
+          "lat":22.592239,
+          "lng":-101.998006,
+          "address": "3517 W.Gray St.Utica"
+        },
+      "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+      "space": {
+          "rooms": 3,
+          "bathroom": 2
+        },
+      "surface": 230,
+      "cost": 440,
+      "currency": "USD",
+      "unitMeasurement": "USD"
+    },
+    {
+      "uid": 1,
+      "name": "The Willows",
+      "like": ["123456", "456321"],
+      "startsScore": 5,
+      "starts":[{"user":"123456", "score": 5},{"user":"123458", "score": 4}],
+      "location": {
+          "lat":22.592239,
+          "lng":-101.998006,
+          "address": "3517 W.Gray St.Utica"
+        },
+      "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+      "space": {
+          "rooms": 3,
+          "bathroom": 2
+        },
+      "surface": 230,
+      "cost": 440,
+      "currency": "USD",
+      "unitMeasurement": "USD"
+    },
+    {
+      "uid": 1,
+      "name": "The Willows",
+      "like": ["123456", "456321"],
+      "startsScore": 5,
+      "starts":[{"user":"123456", "score": 5},{"user":"123458", "score": 4}],
+      "location": {
+          "lat":22.592239,
+          "lng":-101.998006,
+          "address": "3517 W.Gray St.Utica"
+        },
+      "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+      "space": {
+          "rooms": 3,
+          "bathroom": 2
+        },
+      "surface": 230,
+      "cost": 440,
+      "currency": "USD",
+      "unitMeasurement": "USD"
+    },
+    {
+      "uid": 1,
+      "name": "The Willows",
+      "like": ["123456", "456321"],
+      "startsScore": 5,
+      "starts":[{"user":"123456", "score": 5},{"user":"123458", "score": 4}],
+      "location": {
+          "lat":22.592239,
+          "lng":-101.998006,
+          "address": "3517 W.Gray St.Utica"
+        },
+      "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+      "space": {
+          "rooms": 3,
+          "bathroom": 2
+        },
+      "surface": 230,
+      "cost": 440,
+      "currency": "USD",
+      "unitMeasurement": "USD"
+    },
+    {
+      "uid": 1,
+      "name": "The Willows",
+      "like": ["123456", "456321"],
+      "startsScore": 5,
+      "starts":[{"user":"123456", "score": 5},{"user":"123458", "score": 4}],
+      "location": {
+          "lat":22.592239,
+          "lng":-101.998006,
+          "address": "3517 W.Gray St.Utica"
+        },
+      "img": "https://t2.rg.ltmcdn.com/es/posts/2/7/7/lemon_pie_saludable_75772_600.jpg",
+      "space": {
+          "rooms": 3,
+          "bathroom": 2
+        },
+      "surface": 230,
+      "cost": 440,
+      "currency": "USD",
+      "unitMeasurement": "USD"
+    }
+]
