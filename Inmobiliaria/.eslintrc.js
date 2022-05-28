@@ -1,4 +1,5 @@
 module.exports = {
   root: true,
-  extends: '@react-native-community',
+  plugins: ['react-hooks'],
+  extends: ['@react-native-community', 'plugin:react-hooks/recommended'],
 };

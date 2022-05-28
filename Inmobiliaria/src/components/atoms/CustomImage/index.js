@@ -41,9 +41,10 @@ const img = StyleSheet.create({
     borderRadius: 12,
     height: 30,
     position: 'absolute',
-    width: 60,
+    minWidth: 50,
+    paddingHorizontal: 10,
     alignItems: 'center',
-    paddingTop: 4,
+    paddingTop: 4.5,
     top: 85,
   },
 });
